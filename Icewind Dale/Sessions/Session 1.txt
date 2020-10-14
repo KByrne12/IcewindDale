@@ -1,0 +1,51 @@
+festival:
+location: behind the blue clam down the street toward town hall
+
+
+stores:
+The Mini Clam
+storekeep:
+half orc : Thalvulm Tobren (Thal-V-oo-lm)
+details:
+
+items:
+Flower of Ice(5): an ice flower that keeps it's shape due to the constant cold temp
+2gp ea
+
+4
+
+
+
+
+ask for under the counter items:
+
+spice of renewal:
+up to 4 uses: 10gp ea
+makes an edible item taste amazing but after 1min the taste in their mouth turns horrid for 1min.
+
+
+
+
+alchemical store:
+
+items:
+snow coloring(8):
+1gp - > 1 foot scare 5 times. slightly magical so it 
+
+healing potion (1) (price high due to rarity) 65gp
+
+slimy substance (not enough to slow movement, just be annoying)
+
+
+costume shop:
+
+masks:
+
+cloaks:
+
+Wooden shield (6)/ sword(3) for kids:
+(2gp for sword, 1gp for shield)
+if swung hard will deal 1 damage.
+shield doesn't increace AC
+shield has the crest of termalaine
+1 sword has fake gems in the hilt (price +1gp)

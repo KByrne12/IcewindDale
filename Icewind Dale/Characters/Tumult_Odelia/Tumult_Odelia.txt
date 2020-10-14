@@ -1,0 +1,9 @@
+Tumult female genasi cleric
+tempest domain worships umberlee
+
+passive percep: 12
+passive insight: 14
+passive invest: 11
+
+
+secret: worships auril
