@@ -1,6 +1,8 @@
 Tumult female genasi cleric
 tempest domain worships umberlee
 
+spirit 2/7 before gift
+
 passive percep: 12
 passive insight: 14
 passive invest: 11

@@ -74,9 +74,45 @@ approaching:
 
 targos:
 travel:
-dwarven valley encounter: 2 chardalyn berserkers.
+dwarven valley encounter:Crag cat
+-body crumbled and broke down in front of the party
+-very fast rot of the body
+-linked to the nautiloid otherworldy creatures
+
+
 one has frostmaiden's ring:
 -delayed. will teleport at level 3 days along with those directly around them. 
 
 termalaine:
 travel: 30min
+
+
+kobolds 
+M5 first 2 on the wall:
+Scorp and Thwip
+-using saws to cut walkway
+-if party decides to come back the area is no longer safe
+-can't hear but if they look over they can see them working away cheerily
+-if damaged they fall into the underdark and disappear
+
+M9
+Smol and Grek
+-immediately rush to attack
+-if either is injured they run and flee down the tunnel to floor 3
+
+M11
+-M9 hide in the back behind Trex
+bodyguards:
+Vott and Zurk
+
+Leader:
+Trex
+-wearing fake wings
+-speaks in perfect/fluent common
+
+
+
+
+
+
+
