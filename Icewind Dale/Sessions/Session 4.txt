@@ -6,12 +6,44 @@ reward retrieval
 
 joruney
 -blizzard hits
--if party becomes lost and sepparated, one of them will see eyes in the mist that stare them down until other
-party members meet up with them
+-visibility 30ft
+-concentration check every 6 seconds dc 10
+-3x dc 15 survival
+-fails by 5
+	-1 person veers off and encounters the maidens watch
+	-short term madness weeping for 3minutes
+
+-if party becomes lost and sepparated, one of them will see eyes in the midst a hard blue on the silver snow
+-several figures appear below the eyes, face in hands and a loud in unison wailing sound can be heard by entire party
+	-wisdom save 12, 3minute madness, constant weeping incapacitated 
 
 
 termalaine mine
+travel: 30min
 
+
+kobolds 
+M5 first 2 on the wall:
+Scorp and Thwip
+-using saws to cut walkway
+-if party decides to come back the area is no longer safe
+-can't hear but if they look over they can see them working away cheerily
+-if damaged they fall into the underdark and disappear
+
+M9
+Smol and Grek
+-immediately rush to attack
+-if either is injured they run and flee down the tunnel to floor 3
+
+M11
+-M9 hide in the back behind Trex
+bodyguards:
+Vott and Zurk
+
+Leader:
+Trex
+-wearing fake wings
+-speaks in perfect/fluent common
 
 other options
 
@@ -27,3 +59,18 @@ inn
 			-Blue/lightning dragon
 		-F Child: Lu
 			-White with white patch over one eye and one hand
+
+Graysteel Details
+
+Danika would like items brought to easthaven to be given to a buyer, they will supply her with items for her project
+
+-needs help collecting ice dragon bones, suggests going to Wyrmwood Crag
+
+Danika items:
+
+-2 potions of healing 40gp
+-potion of stealth 30gp
+	-fog cloud for 1min in a 20ft cube
+
+-arm catapult
+	-allows casting of catapult "spell" 3 times before breaking
