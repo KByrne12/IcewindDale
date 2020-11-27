@@ -1,0 +1,50 @@
+finish fighting grell
+
+Skull in the wall with stone
+-skull crumbles upon retrieving the stone
+-stat block for the stone
+
+return to termalaine
+
+options have been given for them to investigate
+
+1)library in bryn shander
+2)Good Mead
+getting quest:
+	-towns folk will lead the party to the shrine where the body lays
+	-they explain what happened
+	-village can't offer a reward but are in dire need of help
+	-they can offer lodging and food / mead for a week
+	-if players cant resolve, mead production will have to stop until the foreseeable future
+on the way
+	-trapper / fox -> 1gp
+	-chwinga throws snowball and acts playfully
+	-fox jumps out of player's arms
+	-fox and chwinga mount
+	-chwinga bestows charm of biting cold
+
+travel:
+12hours - 2 encounters
+8 - 4 encounters
+dog sleds cut travel in half and reduce encounters by half
+
+encounters:
+1- blizzard -> sorrow bringer storms the party with 
+2- Shiverwail + 2 zombie Kobolds (297)
+3- Winter Wolf (fateforge 370)
+4- 2 Snow Golems
+5- Crashed Cart with a thermal Cube in it
+6- Calm night
+
+
+ogre personality:
+-short tempered
+-greedy
+-stupid
+-focused
+
+Verbeeg personality:
+-greedy
+-protective
+-hungry
+-slight intelligence

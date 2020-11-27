@@ -1,0 +1,3 @@
+ larger versions of the bugs on the ship appear while party is surrounded
+with "friendly" illids trying to trade for the psi crystal
+termalaine cave Psi Crystal -> attunement signals to the ship -> Id Ascendant
